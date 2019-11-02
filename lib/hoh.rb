@@ -33,15 +33,7 @@
 def naming_system
   
   hash ={
-  portion_1 = {
-    label: "Kingdom",
-    sub_category: {
-      label: "Phylum",
-      sub_category: {
-        label: "Class"
-        sub_category: {
-          label: "Order"
-        }
+    
     }
   
 
